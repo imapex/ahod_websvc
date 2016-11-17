@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 echo
 echo "This script will install all of the Microservices needed, "
-echo "please confirm you have run setup.sh first "
+echo "Before this install can run the environment variables must be setup"
+echo "..... run the follwing command to setup environment variables: "
+echo " 'source setup.sh' "
 echo
 echo "Press Enter to continue or control-c to quit.."
 read confirm
