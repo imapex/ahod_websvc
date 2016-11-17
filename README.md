@@ -9,5 +9,5 @@ The web service will run within the containers created by these scripts and can 
 * https://github.com/pfincher99/ahod_webapp
  
 In order to build the containers you need to follow these steps from your local PC:
-* run the command "source setup.sh" and input the required environment variables that will be used by the web server container
-* run the command "install.sh" to provision the docker containers into Marathon
+* run the command *"source setup.sh"* and input the required environment variables that will be used by the web server container
+* run the command *"install.sh"* to provision the docker containers into Marathon
