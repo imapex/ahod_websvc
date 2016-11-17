@@ -1,7 +1,7 @@
 # All Hands On Deck IoT Demo Web Service Container
 ## This repo is used as part of the IMAPEX "All Hands On Deck" IoT demo.
 
-The full description of the demo can be found here
+The full description of the demo can be found here:
 * https://github.com/pfincher99/ahod_home
 
 The scripts in this repo are used to build the docker containers to run the web service in a Mantl & Marathon environment.
