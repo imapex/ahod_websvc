@@ -1,4 +1,4 @@
-# All Hands On Deck web server
+# All Hands On Deck IoT Demo Web Service Container
 ## This repo is used as part of the IMAPEX "All Hands On Deck" IoT demo.
 
 The full description of the demo can be found here
