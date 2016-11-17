@@ -1,3 +1,3 @@
 # ahodserver
-This creates the Mantle server for running the All Hands On Deck Web Server
-
+This repo is used as part of the IMAPEX "All Hands On Deck" IoT demo.
+The scripts in this repo are used to set up the containers to run the web service application "ahod_webapp"
