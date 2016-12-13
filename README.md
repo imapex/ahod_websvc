@@ -4,7 +4,8 @@
 The full description of the demo can be found here:
 * https://github.com/imapex/ahod_home
 
-The scripts in this repo are used to build the docker containers to run the web service in a Mantl & Marathon environment.
+The scripts in this repo are used to build the docker container. We have run the container in Mantl.io during our testing. A free version of Mantl is available on Cisco DevNet here: https://developer.cisco.com/site/mantl/
+
 The web service will run within the containers created by these scripts and can be found here:
 * https://github.com/imapex/ahod_webapp
  
